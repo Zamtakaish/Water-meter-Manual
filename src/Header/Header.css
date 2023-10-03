@@ -1,0 +1,7 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    min-height: 13vh;
+    height: 80px;
+    width: auto;
+}

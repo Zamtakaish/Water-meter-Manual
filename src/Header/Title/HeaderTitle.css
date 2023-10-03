@@ -1,0 +1,16 @@
+.header__title {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    flex: 65%;
+    background-color: #95c7d3;
+}
+
+.header__title-description {
+    flex: 0 1 40%;
+    padding: 0 3%;
+    font-size: 1.15rem;
+    margin: 0;
+    color: #0e2131;
+}

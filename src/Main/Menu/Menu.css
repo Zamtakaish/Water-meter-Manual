@@ -1,0 +1,7 @@
+.main__menu {
+    display: flex;
+    flex-direction: column;
+    flex: 0 1 25%;
+    align-self: stretch;
+    background-color: #87a4cc;
+}

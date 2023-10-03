@@ -3,6 +3,11 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import './Assets/Fonts/chunkfive/ChunkFive-Regular.otf'
+import './Assets/Fonts/el-messiri/elmessiri-regular.otf'
+import './Assets/Fonts/el-messiri/elmessiri-bold.otf'
+import './Assets/Fonts/el-messiri/elmessiri-semibold.otf'
+import './Assets/Fonts/el-messiri/elmessiri-medium.otf'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

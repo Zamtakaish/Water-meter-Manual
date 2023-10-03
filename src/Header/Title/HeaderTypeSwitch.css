@@ -1,0 +1,18 @@
+.header__title__typeSwitch {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    flex:0 1 30%;
+    width: 30%;
+
+}
+
+.header__title__typeSwitch-button {
+    background-color: #609dbe;
+    color: #daeef1;
+    font-size: 0.54rem;
+    height: 100%;
+    width: 40%;
+    border: 2px solid #4a90af;
+    border-radius: 7px;
+}

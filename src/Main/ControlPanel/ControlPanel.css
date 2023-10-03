@@ -1,0 +1,6 @@
+.main__workspace__controlPanel {
+    display: flex;
+    width: auto;
+    height: 5%;
+    list-style: none;
+}

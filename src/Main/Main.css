@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    min-height: 87vh;
+    background-color: #bcd6d9;
+}
+
+.main__workspace {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    width: 75%;
+}
