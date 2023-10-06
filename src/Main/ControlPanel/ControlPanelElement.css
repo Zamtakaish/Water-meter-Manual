@@ -1,6 +1,10 @@
 .main__workspace__controlPanel-element {
-    width: 10%;
+    width: 80px;
+    height: 70%;
     background-color: #609dbe;
     color: #daeef1;
     font-size: 0.54rem;
+    border: 1px solid #225274;;
+    border-bottom: none;
+    border-radius: 10px 10px 0 0;
 }

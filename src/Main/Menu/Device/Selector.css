@@ -1,0 +1,12 @@
+.main__menu__device__selector {
+    width: 100%;
+    height: 40%;
+    box-sizing: border-box;
+    margin: 7% 0;
+}
+
+select {
+    width: 100%;
+    height:100%;
+
+}

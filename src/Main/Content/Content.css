@@ -1,0 +1,9 @@
+.main__workspace__content {
+    background-color: white;
+    min-height: 81vh;
+    margin: 0 2%;
+    overflow-x: inherit;
+    overflow-y: scroll;
+    border: solid 2px #4a90af;
+    border-radius: 3px;
+}

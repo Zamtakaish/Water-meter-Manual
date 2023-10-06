@@ -2,5 +2,8 @@
     display: flex;
     width: auto;
     height: 5%;
+    margin: 0;
+    padding: 0 3%;
+    align-items: flex-end;
     list-style: none;
 }
