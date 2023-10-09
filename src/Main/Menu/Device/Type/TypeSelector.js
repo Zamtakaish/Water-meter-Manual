@@ -14,7 +14,7 @@ function TypeSelector(props) {
             <select value={props.currentType} onChange={onTypeChangeHandler}>
                 {
                     props.types.map(element =>
-                        <option value={element}>{element}</option>)
+                        <option key={element} value={element}>{element}</option>)
                 }
             </select>
         </div>

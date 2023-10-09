@@ -16,7 +16,10 @@ function ModelSelector(props) {
             <div className='main__menu__device__selector'>
                 <select value={currentModel} onChange={onModelChangeHandler}>
                        {
-                           props.models.map(element => <option value={element}>{element}</option>)
+                           props.models.map(element => <option key={element}
+                                                               value={element}>
+                               {element}
+                           </option>)
                        }
                 </select>
             </div>

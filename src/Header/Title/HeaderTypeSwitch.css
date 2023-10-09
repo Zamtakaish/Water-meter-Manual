@@ -13,6 +13,21 @@
     font-size: 0.54rem;
     height: 100%;
     width: 40%;
-    border: 2px solid #4a90af;
+    margin:0 0.1rem;
+    border: 2px solid #609dbe;
     border-radius: 7px;
+    user-select: none;
+}
+
+.header__title__typeSwitch-button:hover {
+    background-color: #53ace1;
+    border-color: #53ace1;
+    cursor: pointer;
+}
+
+.header__title__typeSwitch-button:active {
+    background-color: #045d91;
+    border-color: #045d91;
+    transform: scale(0.98);
+    transform-origin: bottom;
 }

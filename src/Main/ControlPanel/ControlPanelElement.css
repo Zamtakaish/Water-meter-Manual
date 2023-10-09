@@ -1,10 +1,26 @@
 .main__workspace__controlPanel-element {
+    display: flex;
     width: 80px;
     height: 70%;
+    align-items: center;
+    justify-content: center;
     background-color: #609dbe;
     color: #daeef1;
     font-size: 0.54rem;
-    border: 1px solid #225274;;
+    border: 1px solid #225274;
     border-bottom: none;
     border-radius: 10px 10px 0 0;
+    user-select: none;
+}
+
+.main__workspace__controlPanel-element:hover {
+    background-color: #53ace1;
+    border-color: #53ace1;
+    cursor: pointer;
+}
+
+.main__workspace__controlPanel-element:active {
+    background-color: #045d91;
+    transform: scale(0.98);
+    transform-origin: bottom;
 }
