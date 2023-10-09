@@ -5,10 +5,15 @@ import HeaderOptions from "./Options/HeaderOptions";
 import HeaderLogo from "./Logo/HeaderLogo";
 
 function Header(props) {
+
+    function transitDeviceClassChangeToApp(newState){
+        props.changeDeviceClass(newState);
+    }
+
     return (
         <div className='header'>
             <HeaderLogo/>
-            <HeaderTitle/>
+            <HeaderTitle transitChanges={transitDeviceClassChangeToApp}/>
             <HeaderOptions/>
         </div>
     );

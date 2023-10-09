@@ -9,7 +9,7 @@ function Main(props) {
         <div className='main'>
             <Menu />
             <div className='main__workspace'>
-                <ControlPanel />
+                <ControlPanel deviceClass={props.deviceClass}/>
                 <Content />
             </div>
         </div>

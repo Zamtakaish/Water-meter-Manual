@@ -12,19 +12,30 @@ function ControlPanel(props) {
         {key: 5, value: 'Поверка 2'},
         {key: 6, value: 'Дополнительно'}
     ];*/
-    const controlOptions = [
+    const controlOptions = [[
         'Информация',
         'Подключение',
         'Перед поверкой',
         'Поверка 1',
         'Поверка 2',
         'Дополнительно'
+    ],
+        [
+            'Информация',
+            'Подключение',
+            'Перед поверкой',
+            'Поверка',
+            'Дополнительно',
+            'Placeholder',
+            'Placeholder',
+            'Placeholder'
+        ]
     ];
 
     return (
         <ul className='main__workspace__controlPanel'>
             {
-                controlOptions.map((element, id) =>
+                controlOptions[props.deviceClass].map((element, id) =>
                     <ControlPanelElement key={id} value={element}/>
                 )
             }
