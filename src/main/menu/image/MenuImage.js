@@ -1,6 +1,6 @@
 import React from 'react';
 import './MenuImage.css';
-import device from '../../../assets/images/TYEM-104.png';
+import device from '../../../assets/devices/heatmeters/tyem/img/tyem-104.png';
 
 function MenuImage(props) {
     return (
