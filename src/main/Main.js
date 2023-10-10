@@ -1,8 +1,8 @@
 import React from 'react';
 import './Main.css';
-import Content from "./Content/Content";
-import ControlPanel from "./ControlPanel/ControlPanel";
-import Menu from "./Menu/Menu";
+import Content from "./content/Content";
+import ControlPanel from "./control_panel/ControlPanel";
+import Menu from "./menu/Menu";
 
 function Main(props) {
     return (

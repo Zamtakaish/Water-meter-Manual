@@ -1,8 +1,8 @@
 import React from 'react';
 import './Header.css'
-import HeaderTitle from "./Title/HeaderTitle";
-import HeaderOptions from "./Options/HeaderOptions";
-import HeaderLogo from "./Logo/HeaderLogo";
+import HeaderTitle from "./title/HeaderTitle";
+import HeaderOptions from "./options/HeaderOptions";
+import HeaderLogo from "./logo/HeaderLogo";
 
 function Header(props) {
 

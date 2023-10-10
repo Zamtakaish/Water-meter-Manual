@@ -1,7 +1,7 @@
 import React from 'react';
 import './Menu.css';
-import MenuImage from "./Image/MenuImage";
-import MenuDevice from "./Device/MenuDevice";
+import MenuImage from "./image/MenuImage";
+import MenuDevice from "./device/MenuDevice";
 
 function Menu(props) {
     return (

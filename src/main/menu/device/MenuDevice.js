@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import './MenuDevice.css';
-import TypeSelector from "./Type/TypeSelector";
-import ModelSelector from "./Model/ModelSelector";
+import TypeSelector from "./type/TypeSelector";
+import ModelSelector from "./model/ModelSelector";
 
 function MenuDevice(props) {
 

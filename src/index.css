@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Chunk Five";
-  src: url("./Assets/Fonts/chunkfive/ChunkFive-Regular.otf") format("opentype");
+  src: url("src/assets/fonts/chunkfive/ChunkFive-Regular.otf") format("opentype");
 }
 
 @font-face {
   font-family: "el-messiri";
-  src: url("./Assets/Fonts/el-messiri/elmessiri-regular.otf") format("opentype");
+  src: url("src/assets/fonts/el-messiri/elmessiri-regular.otf") format("opentype");
 }
 
 
