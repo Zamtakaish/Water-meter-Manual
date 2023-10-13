@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Water-meter-Manual/static/css/main.8f671610.css",
+    "main.js": "/Water-meter-Manual/static/js/main.bdf9a7a2.js",
+    "static/js/787.9bd75593.chunk.js": "/Water-meter-Manual/static/js/787.9bd75593.chunk.js",
+    "static/media/sku-01.png": "/Water-meter-Manual/static/media/sku-01.2e78761e3956928281e0.png",
+    "static/media/strumen-ts-07-30-8.png": "/Water-meter-Manual/static/media/strumen-ts-07-30-8.f9a520f569535991eb76.png",
+    "static/media/strumen-ts-07-k7.png": "/Water-meter-Manual/static/media/strumen-ts-07-k7.6e94e5c63d6194be1a46.png",
+    "static/media/strumen-ts-07-k6.png": "/Water-meter-Manual/static/media/strumen-ts-07-k6.bfc1d41ea0debe8e526c.png",
+    "static/media/elmessiri-semibold.otf": "/Water-meter-Manual/static/media/elmessiri-semibold.ccc5e9de924080baeb6a.otf",
+    "static/media/elmessiri-regular.otf": "/Water-meter-Manual/static/media/elmessiri-regular.3353ddcc52d2f4aca5a6.otf",
+    "static/media/strumen-ts-05.png": "/Water-meter-Manual/static/media/strumen-ts-05.2ee81ead96abfa2c1149.png",
+    "static/media/elmessiri-bold.otf": "/Water-meter-Manual/static/media/elmessiri-bold.e2f2e2f92bbc721d75c8.otf",
+    "static/media/therm-02.png": "/Water-meter-Manual/static/media/therm-02.6d75368491659a0ce6e8.png",
+    "static/media/tyem-104-k.png": "/Water-meter-Manual/static/media/tyem-104-k.74083db6a8e6dd89ba8f.png",
+    "static/media/esco-mtr-06.png": "/Water-meter-Manual/static/media/esco-mtr-06.856e7a7d46fd70aabdd7.png",
+    "static/media/tyem-05.png": "/Water-meter-Manual/static/media/tyem-05.3bb809851b7a2649cc47.png",
+    "static/media/sku-02.png": "/Water-meter-Manual/static/media/sku-02.0263fb6a74d7948e03a7.png",
+    "static/media/skm-02.png": "/Water-meter-Manual/static/media/skm-02.d19a03336fb4dbbe8a48.png",
+    "static/media/tyem-104.png": "/Water-meter-Manual/static/media/tyem-104.c0c416c705f6d68e365f.png",
+    "static/media/ChunkFive-Regular.otf": "/Water-meter-Manual/static/media/ChunkFive-Regular.7116b10487455da5a894.otf",
+    "static/media/VedemLogo.png": "/Water-meter-Manual/static/media/VedemLogo.44b557334ca829f71b1f.png",
+    "index.html": "/Water-meter-Manual/index.html",
+    "main.8f671610.css.map": "/Water-meter-Manual/static/css/main.8f671610.css.map",
+    "main.bdf9a7a2.js.map": "/Water-meter-Manual/static/js/main.bdf9a7a2.js.map",
+    "787.9bd75593.chunk.js.map": "/Water-meter-Manual/static/js/787.9bd75593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f671610.css",
+    "static/js/main.bdf9a7a2.js"
+  ]
+}
