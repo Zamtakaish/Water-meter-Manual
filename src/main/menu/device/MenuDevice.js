@@ -2,6 +2,7 @@ import React from 'react';
 import './MenuDevice.css';
 import TypeSelector from "./type/TypeSelector";
 import ModelSelector from "./model/ModelSelector";
+import Test from "./Test";
 
 function MenuDevice(props) {
 
@@ -13,6 +14,9 @@ function MenuDevice(props) {
             <ModelSelector currentModel={props.currentModel}
                            models={props.modelsList}
                            onModelChange={props.onModelChange}/>
+            <Test currentModel={props.currentModel}
+                  models={props.modelsList}
+                  onModelChange={props.onModelChange}/>
         </div>
     );
 }
